@@ -21,11 +21,11 @@
 <p>As demandas do negócio são:
 
 - [x] O usuário só poderá verificar os estudios caso sua autorização seja feita com sucesso através do token;
-- [x] O usuário só poderá verificar criar um estúdio caso sua autorização seja feita com sucesso através do token;
-- [x] O usuário só poderá verificar deletar um estudio caso sua autorização seja feita com sucesso através do token;
+- [x] O usuário só poderá criar um estúdio caso sua autorização seja feita com sucesso através do token;
+- [x] O usuário só poderá deletar um estudio caso sua autorização seja feita com sucesso através do token;
 - [x] O usuário só poderá verificar os títulos caso sua autorização seja feita com sucesso através do token;
-- [x] O usuário só poderá verificar criar um título caso sua autorização seja feita com sucesso através do token;
-- [x] O usuário só poderá verificar deletar um título caso sua autorização seja feita com sucesso através do token;
+- [x] O usuário só poderá criar um título caso sua autorização seja feita com sucesso através do token;
+- [x] O usuário só poderá deletar um título caso sua autorização seja feita com sucesso através do token;
 
 ## Tecnologias
 - [VsCode](https://code.visualstudio.com/download)
